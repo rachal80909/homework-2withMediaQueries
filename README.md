@@ -1,1 +1,3 @@
-# homework-2withMediaQueries
+# Basic-Portfolio
+
+this is the first project for denver coding bootcamp
